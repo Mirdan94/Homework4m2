@@ -12,6 +12,5 @@ public class Consumer extends Thread {
         storage.getStorage();
     }
 
-
 }
 
